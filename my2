@@ -281,7 +281,7 @@ https://piratesiptv.shortcm.li/gazi.m3u8
 http://stream.amrbd.com:8082/kn7a/tracks-v1a1/mono.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Cricket
 #http://pulsetv.uk:8080/88888/99999/285002
-http://wagnet.club:7000/test1234/test1234/102
+http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 #http://pulsetv.uk:8080/88888/99999/290845
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
