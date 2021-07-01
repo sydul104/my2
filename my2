@@ -662,57 +662,37 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20262
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20219
 
 
-#EXTINF:-1 tvg-id="" group-title="WORLD CRICKET",WC. SKY SPORTS CRICKET HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30326
-#EXTINF:-1 tvg-id="" group-title="WORLD CRICKET",WC. SUPERSPORT CRICKET HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30621
-#EXTINF:-1 tvg-id="" group-title="WORLD CRICKET",WC. WILLOW CRICKET HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7999
-#EXTINF:-1 tvg-id="" group-title="WORLD CRICKET",WC. WILLOW CRICKET USA
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30327
-#EXTINF:-1 tvg-id="" " group-title="WORLD CRICKET",WC. WILLOW CRICKET EXTRA HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/381931
-#EXTINF:-1 tvg-id="" group-title="WORLD CRICKET",WC. ASTRO CRICKET HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319604
-#EXTINF:-1 tvg-id="" " group-title="WORLD CRICKET",WC. WILLOW CRICKET CANADA HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30329
-#EXTINF:-1 tvg-id="10TV.in" " group-title="WORLD CRICKET",WC. FLOWER SPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/275731
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="" group-title="WORLD CRICKET",WC. OSN SPORTS CRICKET
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30599
-#EXTINF:-1 tvg-id="10TV.in"" group-title="WORLD CRICKET",WC. GEO SUPER PK
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5230
-#EXTINF:-1 tvg-id="StarGoldSelect.in"" group-title="WORLD CRICKET",WC. ATN CRICKET PLUS HD CANADA
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30328
-#EXTINF:-1 tvg-id="10TV.in" " group-title="WORLD CRICKET",WC. PTV SPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5216
-#EXTINF:-1 tvg-id="10TV.in" " group-title="WORLD CRICKET",WC. TEN SPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30574
-#EXTINF:-1 tvg-id="10TV.in"" group-title="WORLD CRICKET",WC. TEN 1 CRICKET .
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30617
-#EXTINF:-1 tvg-id="10TV.in"" group-title="WORLD CRICKET",WC. TEN 2 CRICKET HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7244
-#EXTINF:-1 tvg-id="Ten3.in"" group-title="WORLD CRICKET",WC. TEN 3 CRICKET HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30623
-#EXTINF:-1 tvg-id="Ten3.in"" group-title="WORLD CRICKET",WC. JIO CRICKET 1 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7243
-#EXTINF:-1 tvg-id="10TV.in"" group-title="WORLD CRICKET",WC. JIO CRICKET 2 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30622
-#EXTINF:-1 tvg-id="13Ulica.pl"" group-title="WORLD CRICKET",WC. SONY ESPN HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30626
-#EXTINF:-1 tvg-id="" group-title="WORLD CRICKET",WC. STAR SPORTS FIRST
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30628
-#EXTINF:-1 tvg-id="StarSports1.in"" group-title="WORLD CRICKET",WC. STAR SPORTS 1
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30630
-#EXTINF:-1 tvg-id="StarSports2.in"" group-title="WORLD CRICKET",WC. STAR SPORTS 2
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30629
-#EXTINF:-1 tvg-id="Star Sports Select 1 HD"" group-title="WORLD CRICKET",WC. STAR SPORTS SELECT 1 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30539
-#EXTINF:-1 tvg-id="StarSportsSelect2.in"" group-title="WORLD CRICKET",WC. STAR SPORTS SELECT 2 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30538
-#EXTINF:-1 tvg-id="" tvg-name="WC. RSA SUPERSPORT CRICKET HD"" group-title="WORLD CRICKET",WC. RSA SUPERSPORT CRICKET HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/393845
+#
 
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="Sports FHD",Sony Ten 1
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16041
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="Sports FHD",Sony Ten 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44711
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports FHD",Sony Six
+https://bit.ly/2NOCoBm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports FHD",Star Sports 1 Hindi
+http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports FHD",Star Sports 2
+http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports FHD",Star Sports 2
+http://iptv.tvmalaysia.cc/932633/932633/8230
+
+#EXTINF:-1,UK: group-title="Sports FHD", Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/624850/624850/6619
+#EXTINF:-1,group-title="Sports FHD",BeIN Sport 13
+http://iptv.tvmalaysia.cc:80/624850/624850/6609
+#EXTINF:-1,group-title="Sports FHD",DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/624850/624850/6582
+#EXTINF:-1,group-title="Sports FHD",DSTV: SuperSport Cricket
+http://iptv.tvmalaysia.cc:80/624850/624850/6583
+#EXTINF:-1,group-title="Sports FHD",ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/624850/624850/671
+#EXTINF: -1 tvg-logo="" group-title="Sports FHD",Willow HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9913
+#EXTINF: -1 tvg-logo="" group-title="Sports FHD",Sky Sports Cricket HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4102
 
 
 #EXTINF:-1 tvg-logo="" group-title="Toffee Server",Sports LIVE 1
