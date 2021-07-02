@@ -400,8 +400,14 @@ http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/60956
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng (Backup)
 #http://212.102.60.40:2200/EX/bein11hd-ar/index.m3u8
-http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/5241
-##EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Eng (Backup)
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/14652
+#EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng (Backup)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/985
+#EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng (Backup)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/984
+#EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 Eng (Backup)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/969
+##EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 3 Eng (Backup)
 http://212.102.60.40:2200/EX/bein12hd-ar/index.m3u8
 #EXTINF:-159 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 MAX
 http://f.winourata.xyz/live/6262622200/index.m3u8
@@ -425,6 +431,12 @@ http://77.83.117.60:8888//02_foxsport_720p/chunklist.m3u8
 http://77.83.117.60:8888//02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-163 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_sports_3.png" group-title="SPORTS",Fox sports-3
 http://77.83.117.60:8888//02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-161 tvg-logo="https://i.pinimg.com/564x/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg" group-title="SPORTS",FOX SPORT 1
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18589
+#EXTINF:-162 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS",Fox sports-2
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18588
+#EXTINF:-163 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_sports_3.png" group-title="SPORTS",Fox sports-3
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18587
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD1
 http://77.83.117.60:8888//02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD2
