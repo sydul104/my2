@@ -152,7 +152,7 @@ http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:-72 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="INFO",Sony-BBC-Earth ICC
 http://103.205.133.19/hls/bbcearth.m3u8
 #EXTINF:-72 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="INFO",Sony-BBC-Earth
-http://89.41.180.253:8080/INDIA_HINDI/BBC_EARTH_HD/index.m3u8
+http://mygoodstream.pw/proxy.php/http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="INFO",BBC Earth
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7233
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="INFO",Nasa tv
@@ -302,8 +302,8 @@ http://203.154.243.89:11205/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS", Gazi TV
 https://piratesiptv.shortcm.li/gazi.m3u8
 #EXTINF:-129 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports
-http://stream.amrbd.com:8082/kn7a/tracks-v1a1/mono.m3u8
-#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Cricket
+ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+ #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Cricket
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
@@ -387,25 +387,35 @@ http://iptv.tvmalaysia.cc:80/live/penang172/penang172/6609.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Cricket
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
-http://ferrarico.referrari.com/live/60132_.m3u8
+#http://ferrarico.referrari.com/live/60132_.m3u8
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
-http://ferrarico.referrari.com/live/60097_.m3u8
+#http://ferrarico.referrari.com/live/60097_.m3u8
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
-http://ferrarico.referrari.com/live/60134_.m3u8
+#http://ferrarico.referrari.com/live/60134_.m3u8
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
-http://ferrarico.referrari.com/live/60099_.m3u8
+#http://ferrarico.referrari.com/live/60099_.m3u8
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
-http://ferrarico.referrari.com/live/60136_.m3u8
+#http://ferrarico.referrari.com/live/60136_.m3u8
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="SPORTS",BeIN Sports 6
-http://ferrarico.referrari.com/live/60137_.m3u8
+#http://ferrarico.referrari.com/live/60137_.m3u8
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="SPORTS",BeIN Sports 7
-http://ferrarico.referrari.com/live/60138_.m3u8
+#http://ferrarico.referrari.com/live/60138_.m3u8
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Premium
-http://ferrarico.referrari.com/live/60091_.m3u8
+#http://ferrarico.referrari.com/live/60091_.m3u8
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/972
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Premium
-http://ferrarico.referrari.com/live/60092_.m3u8
+#http://ferrarico.referrari.com/live/60092_.m3u8
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/971
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3 Premium
-http://ferrarico.referrari.com/live/60093_.m3u8
+#http://ferrarico.referrari.com/live/60093_.m3u8
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/970
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng (Backup)
