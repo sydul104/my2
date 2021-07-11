@@ -474,6 +474,9 @@ http://f.winourata.xyz/live/6262622200/index.m3u8
 http://h.yaminoura.xyz/live/331210000/index.m3u8
 #EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 4 MAX
 http://f.winourata.xyz/live/001087800/index.m3u8
+#EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 5 MAX
+http://b.wnbouhagsa.xyz//live/0679877700/index.m3u8
+
 
 #EXTINF:-148 tvg-http://f.winourata.xyz/live/001087800/index.m3u8="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
 http://77.83.117.60:8888//02_BTSPORTHD_1_720p/chunklist.m3u8
