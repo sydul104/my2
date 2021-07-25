@@ -303,6 +303,12 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="WORLD MOVIES",WD TV
 http://203.154.243.89:11205/
 
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Live Sports Olempic-1
+http://1.adrawayoun.xyz/live/145/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Live Sports Olempic-2
+
+
 #EXTINF:-129 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports
 https://piratesiptv.shortcm.li/gazi.m3u8
 #EXTINF:-129 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports
@@ -482,6 +488,16 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/971
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3 Premium
 #http://ferrarico.referrari.com/live/60093_.m3u8
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/970
+
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports Fr-1
+http://1.adrawayoun.xyz/live/103/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports Fr-2
+http://1.adrawayoun.xyz/live/104/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports Fr-3
+http://1.adrawayoun.xyz/live/105/index.m3u8
+
+
 
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
