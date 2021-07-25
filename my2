@@ -304,9 +304,8 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 http://203.154.243.89:11205/
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Live Sports Olempic-1
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Live Sports Oympic
 http://1.adrawayoun.xyz/live/145/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Live Sports Olempic-2
 
 
 #EXTINF:-129 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports
@@ -801,4 +800,35 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33658
 
 #EXTINF: -1 tvg-logo="" group-title="Sports FHD", Fox sports 506
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33659
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic",USA-Olympic channel
+http://livepulse2.uk:8080/Tiff123/Tiff123/249698
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic",AU-Olympic channel
+http://livepulse2.uk:8080/Tiff123/Tiff123/252132
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Olympic
+http://livepulse2.uk:8080/Tiff123/Tiff123/335448
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Olympic2
+http://livepulse2.uk:8080/Tiff123/Tiff123/293730
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Olympic3.
+http://152.89.62.111:8080/88888/99999/293729
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Olympic4.
+http://livepulse2.uk:8080/Tiff123/Tiff123/336186
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Olympic5.
+http://livepulse2.uk:8080/Tiff123/Tiff123/335449
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Olympic6.
+http://livepulse2.uk:8080/Tiff123/Tiff123/336188
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Olympic7.
+http://livepulse2.uk:8080/Tiff123/Tiff123/336189
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Olympic8.
+http://livepulse2.uk:8080/Tiff123/Tiff123/336190
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Olympic9.
+http://livepulse2.uk:8080/Tiff123/Tiff123/336191
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/NBC_Sports_logo_1989-2011.svg/200px-NBC_Sports_logo_1989-2011.svg.png" group-title="Olympic",USA- NBC SPORTS NETWORK
+http://livepulse2.uk:8080/Tiff123/Tiff123/249712
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="Olympic",USA- NBC Sport
+http://wagnet.club:7000/test1234/test1234/649043
 
