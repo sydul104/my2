@@ -274,6 +274,17 @@ http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-115 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424357/71120744.jpg" group-title="Hindi", Kix HD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
 
+
+#EXTINF:-116 tvg-logo="https://download.logo.wine/logo/Netflix/Netflix-Logo.wine.png" group-title="WORLD MOVIES",Netflix Comedy
+http://ar148ferrari.referrari.com/live/601361_.m3u8
+#EXTINF:-116 tvg-logo="https://download.logo.wine/logo/Netflix/Netflix-Logo.wine.png" group-title="WORLD MOVIES",Netflix Movies
+http://ar148ferrari.referrari.com/live/601365_.m3u8
+#EXTINF:-116 tvg-logo="https://download.logo.wine/logo/Netflix/Netflix-Logo.wine.png" group-title="WORLD MOVIES",Netflix Horror
+http://ar148ferrari.referrari.com/live/601363_.m3u8
+#EXTINF:-116 tvg-logo="https://download.logo.wine/logo/Netflix/Netflix-Logo.wine.png" group-title="WORLD MOVIES",Netflix Romance
+http://ar148ferrari.referrari.com/live/601366_.m3u8
+
+
 #EXTINF:-116 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="WORLD MOVIES",Sony Pix HD
 http://cdn.ihub.live:8080/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-116 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="WORLD MOVIES",Sony Pix HD
