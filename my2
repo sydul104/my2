@@ -323,27 +323,36 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 http://203.154.243.89:11205/
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Live Sports Oympic
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Live Sports 
 http://1.adrawayoun.xyz/live/145/index.m3u8
 
 #EXTINF:-129 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports
-https://piratesiptv.shortcm.li/gazi.m3u8
+https://cdn.cinemabaaz.live/j-TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-129 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-129 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports
 http://103.157.237.18:8000/play/630
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS", Gazi TV
 http://103.157.237.18:8000/play/122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS", Gazi TV
-http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+http://bd.digiiptv.net:25461/moznu43/PA2443/525
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS", Gazi TV
+https://cdn.cinemabaaz.live/j-GTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS", Gazi TV
+https://piratesiptv.shortcm.li/gazi.m3u8
+
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Cricket
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-#http://91.194.110.22:9097/AU_FOX_SPORTS_501/index.m3u8
+http://91.194.110.22:9097/AU_FOX_SPORTS_501/index.m3u8
+#EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33654
+#EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
+http://iptv.starhd.pk:8880/live/AZEEMPK/rEac6QHVJj/55993.m3u8
 #EXTINF:-183 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket
 http://wagnet.club:7000/test1234/test1234/102
 #EXTINF:-183 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD
@@ -607,14 +616,15 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
 http://luckonline.eu:8080/17424/cnyzqDETiP/1317
-#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Football+
-http://luckonline.eu:8080/17424/cnyzqDETiP/1316
-#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Lalega
-http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116684
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28905
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Rugby
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28904
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport 7
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28903
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Premier League
-http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116685
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28902
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Action
-http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116687
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28900
 #EXTINF:-176 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports Premier League 
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:-176 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports mix
@@ -817,32 +827,6 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33658
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33659
 
 
-#EXTINF:-1 group-title="Olympic",Beins 1
-http://212.224.98.207:2200/EX/bein1hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Bein 2 Inspired
-http://212.224.98.207:2200/EX/bein2hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Beins 3
-http://212.224.98.207:2200/EX/bein3hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Benins 4
-http://212.224.98.207:2200/EX/bein4hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Beins 5
-http://212.224.98.207:2200/EX/bein5hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Beins 6
-http://212.224.98.207:2200/EX/bein6hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Beins 7
-http://212.224.98.207:2200/EX/bein7hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Beins Prem 1
-http://212.224.98.207:2200/EX/bein8hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Beins Prem 2
-http://212.224.98.207:2200/EX/bein9hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Beins Prem 3
-http://212.224.98.207:2200/EX/bein10hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Beins Eng 1
-http://212.224.98.207:2200/EX/bein11hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Beins Eng 2
-http://212.224.98.207:2200/EX/bein12hd-ar/index.m3u8?token=linksports
-#EXTINF:-1 group-title="Olympic",Beins Eng 3
-http://185.180.15.17:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token=linksports
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Euro Sports-1
 http://livepulse2.uk:8080/Tiff123/Tiff123/335448
