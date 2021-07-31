@@ -273,6 +273,10 @@ http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-115 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424357/71120744.jpg" group-title="Hindi", Kix HD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Hindi",Gemini Movies HD
+https://suntvvodaf-live.s.llnwi.net:443/GeminiMoviesHD/GeminiMoviesHD.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Hindi",Gemini Comedy
+https://suntvvodaf-live.s.llnwi.net:443/GeminiComedy/GeminiComedy.isml/manifest.mpd
 
 
 #EXTINF:-116 tvg-logo="https://download.logo.wine/logo/Netflix/Netflix-Logo.wine.png" group-title="WORLD MOVIES",Netflix Comedy
