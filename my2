@@ -341,7 +341,13 @@ http://203.154.243.89:11205/
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Live Sports 
-http://1.adrawayoun.xyz/live/145/index.m3u8
+http://jupiter.bdcabletv.com/willow_hd-sim/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vhCcytg.png" group-title="Bangladesh vs Australia", Live 2
+https://fancodealive1-a.akamaihd.net/d91768f4d7e047f9a53c680602fc51f5/ap-south-1/6008340455001/playlist_dvr.m3u8?hdnea=exp=1628020102~acl=*~id=116502193_MbD_RBZ2ovlvdPQV~data=116502193~hmac=9e5ea398da9f3070fd5abb619884f4aeef19a869fa83f2051674be920798aedc&deviceId=Linux%20armv8l
+
+
+
 
 #EXTINF:-129 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports
 https://cdn.cinemabaaz.live/j-TSports/tracks-v1a1/mono.m3u8
