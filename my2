@@ -125,6 +125,8 @@ http://103.205.133.48/hls/sony8.m3u8
 http://103.205.133.19/hls/ruposhibangla.m3u8
 #EXTINF:-57 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="BANGLA",DD Bangla
 http://rv.imax.re:80/307210711113/307210711113/83726
+#EXTINF:-57 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="BANGLA",Zee 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
 
 
@@ -133,7 +135,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-58 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
 https://d2cuyje6aq0ny8.cloudfront.net/BBC_WORLD.m3u8
 #EXTINF:-59 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="NEWS",CNN
-http://103.205.133.19/hls/cnn.m3u8
+#http://103.205.133.19/hls/cnn.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
 #EXTINF:-60 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="NEWS",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-61 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="NEWS",DW
@@ -145,7 +148,7 @@ http://103.109.56.116/live/skyfeed1015/index.m3u8
 #http://tv.pmcon.net/hls/stream9.m3u8
 http://103.81.104.118/hls/stream9.m3u8
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFO",Discovery Hindi
-https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+https://idvd.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
 #EXTINF:-64 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="INFO",Discovery Science
 https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFO",NAT GEO HD [BANGLA]
@@ -153,6 +156,8 @@ https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-69 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFO",NAT GEO
 http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-69 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFO",NAT GEO Hindi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:-70 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="INFO",NAT GEO WILD
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="INFO",Travel xp Bangla
@@ -164,7 +169,7 @@ https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 http://tv.pmcon.net/hls/stream6.m3u8
 http://103.81.104.118/hls/stream6.m3u8
 #EXTINF: -71 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="INFO", Animal Planet Hindi
-https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+https://idvd.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
 #EXTINF:-72 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="INFO",Sony-BBC-Earth ICC
 http://103.205.133.19/hls/bbcearth.m3u8
 #EXTINF:-72 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="INFO",Sony-BBC-Earth
@@ -224,6 +229,8 @@ http://103.205.133.19/hls/arymusic.m3u8
 http://iptv.starhd.pk:8880/live/AZEEMPK/rEac6QHVJj/8266.m3u8
 #EXTINF:0 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png" group-title="MUSIC",Pop Pataka
 https://live.hungama.com/linear/pop-pataka/playlist_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png" group-title="MUSIC",Hangama Music
+https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/f2/96/43/f296437b67192658e1a9b095b2f6a063.jpg" group-title="MUSIC",MTV
 https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
 #EXTINF:-92 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Ptc_Music.jpg/revision/latest?cb=20191217212601" group-title="MUSIC",PTC Music
@@ -257,7 +264,7 @@ http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-104 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="Hindi", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema Me
-http://172.50.50.66:8080/40/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v5a1/mono.m3u8
 #EXTINF:-106 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema Hd
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
@@ -267,7 +274,7 @@ https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-108 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Hindi",Zee Bioscop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-109 tvg-name="Zee Cafe Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png" group-title="Hindi", Zee Cafe Sd
-https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX
 #http://45.127.244.7:8080/hls/channel14.m3u8
 http://103.157.237.18:8000/play/337
@@ -278,7 +285,7 @@ http://rv.imax.re:80/307210711113/307210711113/83705
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-111 tvg-name="Sony Max 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi", Sony Max 2
-http://208.115.215.42/SonY_Max_HD_02/index.m3u8
+http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi",UTV Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-113 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424364/71120839.jpg" group-title="Hindi", Spice Tv
@@ -403,6 +410,8 @@ http://103.157.237.18:8000/play/602
 http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28333&type=hls
 #EXTINF:-128 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
 http://luckonline.eu:8080/17424/cnyzqDETiP/1371
+#EXTINF:-128 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
+http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
 #EXTINF:-129 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
@@ -520,10 +529,12 @@ http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://ferrarico.referrari.com/live/60132_.m3u8
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
 #http://ferrarico.referrari.com/live/60097_.m3u8
-http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 #http://ferrarico.referrari.com/live/60134_.m3u8
 http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
