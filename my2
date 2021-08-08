@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="BANGLA",BTV World
 http://103.205.133.19/hls/btvworld.m3u8
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV 
-http://103.205.133.19/hls/btv.m3u8
+#http://103.205.133.19/hls/btv.m3u8
+http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 http://103.205.133.19/hls/ekatoortv.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
@@ -128,6 +129,8 @@ https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 http://103.205.133.48/hls/sony8.m3u8
 #EXTINF:-57 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="BANGLA",Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="BANGLA", Enter 10 Bangla
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-57 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="BANGLA",DD Bangla
 http://rv.imax.re:80/307210711113/307210711113/83726
 #EXTINF:-56 tvg-logo="https://i.ytimg.com/vi/neke5QKPSc8/maxresdefault.jpg" group-title="Indian-Bangla",Zee-24 Ganta
@@ -400,11 +403,13 @@ http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://212.102.60.40:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [New]
 http://luckonline.eu:8080/17424/cnyzqDETiP/1317
+http://www.luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/517.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?syduliptv
+http://www.luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/517.m3u8
 
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Cricket plus
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Sony Live
+http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8?token=hubtvapp
 
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
