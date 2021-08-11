@@ -147,7 +147,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://d2cuyje6aq0ny8.cloudfront.net/BBC_WORLD.m3u8
 #EXTINF:-59 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="NEWS",CNN
 #http://103.205.133.19/hls/cnn.m3u8
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-60 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="NEWS",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-61 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="NEWS",DW
@@ -177,7 +177,7 @@ http://103.81.104.118/hls/stream37.m3u8
 #EXTINF:-67 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="INFO",TRAVEL XP
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF: -71 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="INFO", Animal Planet HD
-http://tv.pmcon.net/hls/stream6.m3u8
+#http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://103.81.104.118/hls/stream6.m3u8
 #EXTINF: -71 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="INFO", Animal Planet Hindi
 https://idvd.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
@@ -292,7 +292,7 @@ http://103.157.237.18:8000/play/337
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
 http://103.153.39.34:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
-http://rv.imax.re:80/307210711113/307210711113/83705
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-111 tvg-name="Sony Max 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi", Sony Max 2
