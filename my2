@@ -442,7 +442,7 @@ http://103.106.243.163:8989/star-sports1/index.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [6]
 http://luckonline.eu:8080/17424/cnyzqDETiP/1369
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports-2
-http://103.157.237.18:8000/play/604
+http://178.79.161.66/woh/index.m3u8?id=48103
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 [2]
 #http://tv.pmcon.net/hls/stream16.m3u8
 http://103.81.104.118/hls/stream16.m3u8
@@ -462,7 +462,7 @@ http://103.157.237.18:8000/play/608
 #http://tv.pmcon.net/hls/stream12.m3u8
 http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 [3]
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8
+http://178.79.161.66/woh/index.m3u8?id=48110
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 http://luckonline.eu:8080/17424/cnyzqDETiP/1315
 #EXTINF:-137 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 [2]
@@ -471,8 +471,7 @@ http://103.109.56.116/live/skyfeed1024/index.m3u8
 #http://103.157.237.18:8000/play/610
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-137 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 [4]
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
-
+http://178.79.161.66/woh/index.m3u8?id=48111
 
 #EXTINF:-138 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX 
 #http://tv.pmcon.net/hls/stream10.m3u8
