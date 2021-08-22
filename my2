@@ -560,37 +560,37 @@ http://iptv.tvmalaysia.cc:80/live/penang172/penang172/6609.m3u8
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
-#http://ferrarico.referrari.com/live/60132_.m3u8
 #http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+http://xcwsnl28.mrnova.online/live/60073_.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
-#http://ferrarico.referrari.com/live/60097_.m3u8
 #http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+http://xcwsnl28.mrnova.online/live/60074_.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
-#http://ferrarico.referrari.com/live/60134_.m3u8
-http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60075_.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
-#http://ferrarico.referrari.com/live/60099_.m3u8
-http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60076_.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
-#http://ferrarico.referrari.com/live/60136_.m3u8
-http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60077_.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="SPORTS",BeIN Sports 6
-#http://ferrarico.referrari.com/live/60137_.m3u8
-http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60078_.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="SPORTS",BeIN Sports 7
-#http://ferrarico.referrari.com/live/60138_.m3u8
-http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60079_.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Premium
 #http://ferrarico.referrari.com/live/60091_.m3u8
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/972
+http://xcwsnl28.mrnova.online/live/60070_.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Premium
 #http://ferrarico.referrari.com/live/60092_.m3u8
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/971
+http://xcwsnl28.mrnova.online/live/60071_.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3 Premium
 #http://ferrarico.referrari.com/live/60093_.m3u8
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/970
+http://xcwsnl28.mrnova.online/live/60072_.m3u8?token=
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports Fr-1
