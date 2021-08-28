@@ -272,7 +272,7 @@ http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-101 tvg-id="(no tvg-id)" tvg-name="Bflix Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-102 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold
-http://45.127.244.7:8080/hls/channel16.m3u8
+http://indo51.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold 
@@ -375,7 +375,8 @@ http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
 
 
 #EXTINF:-129 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports [1]
-https://cdn.cinemabaaz.live/j-TSports/tracks-v1a1/mono.m3u8
+#https://cdn.cinemabaaz.live/j-TSports/tracks-v1a1/mono.m3u8
+http://luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/1142.m3u8?token=rk
 #EXTINF:-129 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports [2]
 http://103.106.243.163:8989/tsports/index.m3u8
 #EXTINF:-129 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports [3]
@@ -976,30 +977,369 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6576
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Thai Olympic-1
-http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Thai Olympic-2
-http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Thai Olympic-3
-http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Thai Olympic-4
-http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Thai Olympic-5
-http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Thai Olympic-6
-http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Thai Olympic-7
-http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Thai Olympic-8
-http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Thai Olympic-9
-http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Olympic", Thai Olympic-10
-http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AND_TV_HD" tvg-logo="" group-title="4K Live Server",AND_TV_HD
+http://143.244.60.10/HINDI__AND_TV_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_BHARAT_HD" tvg-logo="" group-title="4K Live Server",STAR_BHARAT_HD
+http://143.244.60.10/HINDI__STAR_BHARAT_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY_MAX_HD" tvg-logo="" group-title="4K Live Server",SONY_MAX_HD
+http://143.244.60.10/HINDI__SONY_MAX_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="MTV_BEATS_HD" tvg-logo="" group-title="4K Live Server",MTV_BEATS_HD
+http://143.244.60.10/HINDI__MTV_BEATS_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="MTV_PLUS_HD" tvg-logo="" group-title="4K Live Server",MTV_PLUS_HD
+http://143.244.60.10/HINDI__MTV_PLUS_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="NAT_GEO_WILD_HD" tvg-logo="" group-title="4K Live Server",NAT_GEO_WILD_HD
+http://143.244.60.10/HINDI__NAT_GEO_WILD_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_UTSAV_MOVIES" tvg-logo="" group-title="4K Live Server",STAR_UTSAV_MOVIES
+http://143.244.60.10/HINDI__STAR_UTSAV_MOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_UTSAV" tvg-logo="" group-title="4K Live Server",STAR_UTSAV
+http://143.244.60.10/HINDI__STAR_UTSAV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_MOVIES_HD" tvg-logo="" group-title="4K Live Server",STAR_MOVIES_HD
+http://143.244.60.10/ENGLISH__STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_MOVIES_SELECT_HD" tvg-logo="" group-title="4K Live Server",STAR_MOVIES_SELECT_HD
+http://143.244.60.10/ENGLISH__STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_JALSHA_HD" tvg-logo="" group-title="4K Live Server",STAR_JALSHA_HD
+http://143.244.60.10/BENGALI__STAR_JALSHA_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_JALSHA_MOVIES_HD" tvg-logo="" group-title="4K Live Server",STAR_JALSHA_MOVIES_HD
+http://143.244.60.10/BENGALI__STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="ZEE_BANGLA_HD" tvg-logo="" group-title="4K Live Server",ZEE_BANGLA_HD
+http://143.244.60.10/BENGALI__ZEE_BANGLA_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="COLORS_BANGLA_HD" tvg-logo="" group-title="4K Live Server",COLORS_BANGLA_HD
+http://143.244.60.10/BENGALI__COLORS_BANGLA_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_GOLD_HD" tvg-logo="" group-title="4K Live Server",STAR_GOLD_HD
+http://143.244.60.10/HINDI__STAR_GOLD_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_GOLD_SELECT_HD" tvg-logo="" group-title="4K Live Server",STAR_GOLD_SELECT_HD
+http://143.244.60.10/HINDI__STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_SPORTS_1_HINDI_HD" tvg-logo="" group-title="4K Live Server",STAR_SPORTS_1_HINDI_HD
+http://143.244.60.10/SPORTS__STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_SPORTS_2_HD" tvg-logo="" group-title="4K Live Server",STAR_SPORTS_2_HD
+http://143.244.60.10/SPORTS__STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_SPORTS_SELECT_1_HD" tvg-logo="" group-title="4K Live Server",STAR_SPORTS_SELECT_1_HD
+http://143.244.60.10/SPORTS__STAR_SPORTS_SELECT_1_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_SPORTS_SELECT_2_HD" tvg-logo="" group-title="4K Live Server",STAR_SPORTS_SELECT_2_HD
+http://143.244.60.10/SPORTS__STAR_SPORTS_SELECT_2_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="TEN_1_HD" tvg-logo="" group-title="4K Live Server",TEN_1_HD
+http://143.244.60.10/SPORTS__TEN_1_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="TEN_2_HD" tvg-logo="" group-title="4K Live Server",TEN_2_HD
+http://143.244.60.10/SPORTS__TEN_2_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="TEN_3_HD" tvg-logo="" group-title="4K Live Server",TEN_3_HD
+http://143.244.60.10/SPORTS__TEN_3_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY_SIX_HD" tvg-logo="" group-title="4K Live Server",SONY_SIX_HD
+http://143.244.60.10/SPORTS__SONY_SIX_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="AND_FLIX_HD" tvg-logo="" group-title="4K Live Server",AND_FLIX_HD
+http://143.244.60.10/HINDI__AND_FLIX_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="AND_PRIVE_HD" tvg-logo="" group-title="4K Live Server",AND_PRIVE_HD
+http://143.244.60.10/ENGLISH__AND_PRIVE_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="COLORS_CINEPLEX_HD" tvg-logo="" group-title="4K Live Server",COLORS_CINEPLEX_HD
+http://143.244.60.10/HINDI__COLORS_CINEPLEX_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="9X_JALWA" tvg-logo="" group-title="4K Live Server",9X_JALWA
+http://143.244.60.10/HINDI__9X_JALWA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="9X_MUSIC" tvg-logo="" group-title="4K Live Server",9X_MUSIC
+http://143.244.60.10/HINDI__9X_MUSIC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="ZEE_CINEMA_HD" tvg-logo="" group-title="4K Live Server",ZEE_CINEMA_HD
+http://143.244.60.10/HINDI__ZEE_CINEMA_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="COLORS_INFINITY_HD" tvg-logo="" group-title="4K Live Server",COLORS_INFINITY_HD
+http://143.244.60.10/ENGLISH__COLORS_INFINITY_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_GOLD_2" tvg-logo="" group-title="4K Live Server",STAR_GOLD_2
+http://143.244.60.10/HINDI__STAR_GOLD_2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="MASTII" tvg-logo="" group-title="4K Live Server",MASTII
+http://143.244.60.10/HINDI__MASTII/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="ZEE_CLASSIC" tvg-logo="" group-title="4K Live Server",ZEE_CLASSIC
+http://143.244.60.10/HINDI__ZEE_CLASSIC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="ZEE_BOLLYWOOD" tvg-logo="" group-title="4K Live Server",ZEE_BOLLYWOOD
+http://143.244.60.10/HINDI__ZEE_BOLLYWOOD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="4K Live Server",ZING
+http://143.244.60.10/HINDI__ZING/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="DANGAL" tvg-logo="" group-title="4K Live Server",DANGAL
+http://143.244.60.10/HINDI__DANGAL/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="UTV_HD" tvg-logo="" group-title="4K Live Server",UTV_HD
+http://143.244.60.10/HINDI__UTV_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY_MAX_2" tvg-logo="" group-title="4K Live Server",SONY_MAX_2
+http://143.244.60.10/HINDI__SONY_MAX_2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="E24" tvg-logo="" group-title="4K Live Server",E24
+http://143.244.60.10/HINDI__E24/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="ZEE_ACTION" tvg-logo="" group-title="4K Live Server",ZEE_ACTION
+http://143.244.60.10/HINDI__ZEE_ACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC_INDIA" tvg-logo="" group-title="4K Live Server",MUSIC_INDIA
+http://143.244.60.10/HINDI__MUSIC_INDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="UTV_ACTION" tvg-logo="" group-title="4K Live Server",UTV_ACTION
+http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="ZEE_CAFE_HD" tvg-logo="" group-title="4K Live Server",ZEE_CAFE_HD
+http://143.244.60.10/ENGLISH__ZEE_CAFE_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_WORLD_HD" tvg-logo="" group-title="4K Live Server",STAR_WORLD_HD
+http://143.244.60.10/ENGLISH__STAR_WORLD_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL_PLANET_HD" tvg-logo="" group-title="4K Live Server",ANIMAL_PLANET_HD
+http://143.244.60.10/ENGLISH__ANIMAL_PLANET_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY_WORLD_HD" tvg-logo="" group-title="4K Live Server",DISCOVERY_WORLD_HD
+http://143.244.60.10/ENGLISH__DISCOVERY_WORLD_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="FOX_LIFE_HD" tvg-logo="" group-title="4K Live Server",FOX_LIFE_HD
+http://143.244.60.10/ENGLISH__FOX_LIFE_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="AND_PICTURES_HD" tvg-logo="" group-title="4K Live Server",AND_PICTURES_HD
+http://143.244.60.10/HINDI__AND_PICTURES_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="MAHA_MOVIE" tvg-logo="" group-title="4K Live Server",MAHA_MOVIE
+http://143.244.60.10/HINDI__MAHA_MOVIE/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL_XP_HD" tvg-logo="" group-title="4K Live Server",TRAVEL_XP_HD
+http://143.244.60.10/ENGLISH__TRAVEL_XP_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="COLORS_MARATHI_HD" tvg-logo="" group-title="4K Live Server",COLORS_MARATHI_HD
+http://143.244.60.10/MARATHI__COLORS_MARATHI_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_PARVAH_HD" tvg-logo="" group-title="4K Live Server",STAR_PARVAH_HD
+http://143.244.60.10/MARATHI__STAR_PARVAH_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY_AATH" tvg-logo="" group-title="4K Live Server",SONY_AATH
+http://143.244.60.10/BENGALI__SONY_AATH/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY_SAB_HD" tvg-logo="" group-title="4K Live Server",SONY_SAB_HD
+http://143.244.60.10/HINDI__SONY_SAB_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="ZEE_TV_HD" tvg-logo="" group-title="4K Live Server",ZEE_TV_HD
+http://143.244.60.10/HINDI__ZEE_TV_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY_WAH" tvg-logo="" group-title="4K Live Server",SONY_WAH
+http://143.244.60.10/HINDI__SONY_WAH/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="NAT_GEO_BENGALI_HD" tvg-logo="" group-title="4K Live Server",NAT_GEO_BENGALI_HD
+http://143.244.60.10/BENGALI__NAT_GEO_BENGALI_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="UTV_MOVIES" tvg-logo="" group-title="4K Live Server",UTV_MOVIES
+http://143.244.60.10/HINDI__UTV_MOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR_VIJAY_HD" tvg-logo="" group-title="4K Live Server",STAR_VIJAY_HD
+http://143.244.60.10/TAMIL__STAR_VIJAY_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="EPIC_HD" tvg-logo="" group-title="4K Live Server",EPIC_HD
+http://143.244.60.10/HINDI__EPIC_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="COLORS_HD" tvg-logo="" group-title="4K Live Server",COLORS_HD
+http://143.244.60.10/HINDI__COLORS_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY_PIX_HD" tvg-logo="" group-title="4K Live Server",SONY_PIX_HD
+http://143.244.60.10/HINDI__SONY_PIX_HD/tracks-v1a1/mono.m3u8?token=test
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="" group-title="Premium Full HD LIVE",T Sports HD
+http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SATV HD" tvg-logo="" group-title="Premium Full HD LIVE",SATV HD
+http://indo51.gcdn.co/BANGLA-BD-SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="Premium Full HD LIVE",Ekushey TV
+http://indo51.gcdn.co/BANGLA-BD-EKUSHEYTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="" group-title="Premium Full HD LIVE",Deepto TV
+http://indo51.gcdn.co/BANGLA-BD-DEEPTOTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="Premium Full HD LIVE",Desh TV
+http://indo51.gcdn.co/BANGLA-BD-DESHTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="Premium Full HD LIVE",RTV
+http://indo51.gcdn.co/BANGLA-BD-RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="Premium Full HD LIVE",NTV
+http://indo51.gcdn.co/BANGLA-BD-NTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="" group-title="Premium Full HD LIVE",MyTV
+http://indo51.gcdn.co/BANGLA-BD-MYTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="Premium Full HD LIVE",ATN News
+http://indo51.gcdn.co/BANGLA-BD-ATNNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News HD" tvg-logo="" group-title="Premium Full HD LIVE",DBC News HD
+http://indo51.gcdn.co/BANGLA-BD-DBCNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="" group-title="Premium Full HD LIVE",Maasranga TV HD
+http://indo51.gcdn.co/BANGLA-BD-MAASRANGATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV HD" tvg-logo="" group-title="Premium Full HD LIVE",Asian TV HD
+http://indo51.gcdn.co/BANGLA-BD-ASIANTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik HD" tvg-logo="" group-title="Premium Full HD LIVE",Nagorik HD
+http://indo51.gcdn.co/BANGLA-BD-NAGORIKTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="" group-title="Premium Full HD LIVE",Banglavision HD
+http://indo51.gcdn.co/BANGLA-BD-BANGLAVISION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24 HD" tvg-logo="" group-title="Premium Full HD LIVE",Channel 24 HD
+http://indo51.gcdn.co/BANGLA-BD-CHANNEL24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="" group-title="Premium Full HD LIVE",COLORS CINEPLEX HD
+http://indo51.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="Premium Full HD LIVE",STAR BHARAT HD
+http://indo51.gcdn.co/hindi-STARBHARATHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Premium Full HD LIVE",STAR PLUS HD
+http://indo51.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="" group-title="Premium Full HD LIVE",ZEE TV HD
+http://indo51.gcdn.co/hindi-ZEETVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="" group-title="Premium Full HD LIVE",COLORS HD
+http://indo51.gcdn.co/hindi-COLORSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="" group-title="Premium Full HD LIVE",SONY HD
+http://indo51.gcdn.co/hindi-SONYHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX HD" tvg-logo="" group-title="Premium Full HD LIVE",SONY MAX HD
+http://indo51.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="" group-title="Premium Full HD LIVE",STAR GOLD HD
+http://indo51.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="" group-title="Premium Full HD LIVE",SONY SAB HD
+http://indo51.gcdn.co/hindi-SONYSABHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV BEATS HD" tvg-logo="" group-title="Premium Full HD LIVE",MTV BEATS HD
+http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV INDIA" tvg-logo="" group-title="Premium Full HD LIVE",MTV INDIA
+http://indo51.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC" tvg-logo="" group-title="Premium Full HD LIVE",B4U MUSIC
+http://indo51.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="" group-title="Premium Full HD LIVE",MUSIC INDIA
+http://indo51.gcdn.co/hindi-MUSICINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="" group-title="Premium Full HD LIVE",SONY PAL
+http://indo51.gcdn.co/hindi-SONYPAL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="" group-title="Premium Full HD LIVE",ZEE BOLLYWOOD
+http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL" tvg-logo="" group-title="Premium Full HD LIVE",ZEE ANMOL
+http://indo51.gcdn.co/hindi-ZEEANMOL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RISHTEY" tvg-logo="" group-title="Premium Full HD LIVE",RISHTEY
+http://indo51.gcdn.co/hindi-RISHTEY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="" group-title="Premium Full HD LIVE",SONY MAX 2
+http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD NATIONAL HD" tvg-logo="" group-title="Premium Full HD LIVE",DD NATIONAL HD
+http://indo51.gcdn.co/hindi-UTVMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="" group-title="Premium Full HD LIVE",BIG MAGIC
+http://indo51.gcdn.co/hindi-BIGMAGIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E24" tvg-logo="" group-title="Premium Full HD LIVE",E24
+http://indo51.gcdn.co/hindi-UTVACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV HD" tvg-logo="https://img.favpng.com/13/2/9/bangladesh-ekattor-tv-television-channel-atn-news-png-favpng-QaMdhQMrfu3J98VEq15N66ELP.jpg" group-title="Just Live TV",Ekattor TV HD
+http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="" group-title="Just Live TV",ATN Bangla
+http://103.159.4.38:8080/BD-BANGLA-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News HD" tvg-logo="" group-title="Just Live TV",DBC News HD
+http://103.159.4.38:8080/BD-BANGLA-13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="Just Live TV",Ekushey TV
+http://103.159.4.38:8080/BD-BANGLA-16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV HD" tvg-logo="" group-title="Just Live TV",Bangla TV HD
+http://103.159.4.38:8080/BD-BANGLA-17/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24 HD" tvg-logo="" group-title="Just Live TV",News 24 HD
+http://103.159.4.38:8080/BD-BANGLA-12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="" group-title="Just Live TV",Boishakhi TV
+http://103.159.4.38:8080/BD-BANGLA-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="" group-title="Just Live TV",T Sports HD
+http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="" group-title="Just Live TV",Jamuna TV
+http://103.159.4.38:8080/BD-BANGLA-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24 HD" tvg-logo="" group-title="Just Live TV",Channel 24 HD
+http://103.159.4.38:8080/BD-BANGLA-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="Just Live TV",Channel i HD
+http://103.159.4.38:8080/BD-BANGLA-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="Just Live TV",NTV
+http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="Just Live TV",ATN News
+http://103.159.4.38:8080/BD-BANGLA-14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla IN" tvg-logo="" group-title="Just Live TV",Colors Bangla IN
+http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema IN" tvg-logo="" group-title="Just Live TV",Zee Bangla Cinema IN
+http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD IN" tvg-logo="" group-title="Just Live TV",Star Plus HD IN
+http://103.159.4.38:8080/IN-BANGLA-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath IN" tvg-logo="" group-title="Just Live TV",Sony Aath IN
+http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha IN" tvg-logo="" group-title="Just Live TV",Star Jalsha IN
+http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla IN" tvg-logo="" group-title="Just Live TV",Zee Bangla IN
+http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live Sports" tvg-logo="" group-title="Just Live TV",Live Sports
+http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="Just Live TV",Star Sports 1 HD
+http://103.159.4.38:8080/SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="" group-title="Just Live TV",T Sports HD
+http://103.159.4.38:8080/SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Being Sports" tvg-logo="" group-title="Just Live TV",Being Sports
+http://103.159.4.38:8080/SPORTS-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hallow Sports" tvg-logo="" group-title="Just Live TV",Hallow Sports
+http://103.159.4.38:8080/SPORTS-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&flix" tvg-logo="" group-title="Just Live TV",&flix
+http://103.159.4.38:8080/SPORTS-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD" tvg-logo="" group-title="Just Live TV",Sony Ten 1 HD
+http://103.159.4.38:8080/SPORTS-8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 SD" tvg-logo="" group-title="Just Live TV",Sony Ten 2 SD
+http://103.159.4.38:8080/SPORTS-9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD" tvg-logo="" group-title="Just Live TV",Sony Ten 2 HD
+http://103.159.4.38:8080/SPORTS-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="" group-title="Just Live TV",Stadium
+http://103.159.4.38:8080/SPORTS-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="" group-title="Just Live TV",PTV Sports
+http://103.159.4.38:8080/SPORTS-12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox 501 HD" tvg-logo="" group-title="Just Live TV",Fox 501 HD
+http://103.159.4.38:8080/SPORTS-13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Just Live TV",Sangeet Bangla
+http://103.159.4.38:5868/MUSIC-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Redbull" tvg-logo="" group-title="Just Live TV",Redbull
+http://103.159.4.38:8080/SPORTS-15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="Just Live TV",Discovery
+http://103.159.4.38:5868/ENTEMENT-3/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 18 Bangla" tvg-logo="" group-title="Just Live TV",News 18 Bangla
+http://103.159.4.38:5868/NEWS-9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="Just Live TV",MTV
+http://103.159.4.38:5868/MUSIC-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoon" tvg-logo="" group-title="Just Live TV",Nicktoon
+http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CN" tvg-logo="" group-title="Just Live TV",CN
+http://103.159.4.38:5868/KIDS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo="" group-title="Just Live TV",Sony Yay
+http://103.159.4.38:5868/KIDS-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="Just Live TV",Discovery Kids
+http://103.159.4.38:5868/KIDS-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radiom" tvg-logo="" group-title="Just Live TV",Radiom
+http://103.159.4.38:5868/MUSIC-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Just Live TV",Animal Planet HD
+http://103.159.4.38:5868/ENTEMENT-2/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Magic" tvg-logo="" group-title="Just Live TV",Zee Magic
+http://103.159.4.38:5868/MUSIC-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT Geo HD" tvg-logo="" group-title="Just Live TV",NAT Geo HD
+http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="" group-title="Just Live TV",RT
+http://103.159.4.38:5868/ENTEMENT-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="Just Live TV",CNN
+http://103.159.4.38:5868/NEWS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="India Today" tvg-logo="" group-title="Just Live TV",India Today
+http://103.159.4.38:5868/NEWS-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="Just Live TV",DW
+http://103.159.4.38:5868/NEWS-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="" group-title="Just Live TV",NHK World
+http://103.159.4.38:5868/NEWS-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Just Live TV",TLC
+http://103.159.4.38:5868/ENTEMENT-1/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="Just Live TV",Zee Action
+http://103.159.4.38:5868/MOVIE-8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="" group-title="Just Live TV",Aljazeera
+http://103.159.4.38:5868/NEWS-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="Just Live TV",Zee Cinema
+http://103.159.4.38:5868/MOVIE-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U Kadak" tvg-logo="" group-title="Just Live TV",B4U Kadak
+http://103.159.4.38:5868/MOVIE-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bflix Movies" tvg-logo="" group-title="Just Live TV",Bflix Movies
+http://103.159.4.38:5868/MOVIE-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max HD" tvg-logo="" group-title="Just Live TV",Max HD
+http://103.159.4.38:5868/MOVIE-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wow Cinema" tvg-logo="" group-title="Just Live TV",Wow Cinema
+http://103.159.4.38:5868/MOVIE-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9X Jhakkas" tvg-logo="" group-title="Just Live TV",9X Jhakkas
+http://103.159.4.38:5868/MUSIC-9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&Pictures" tvg-logo="" group-title="Just Live TV",&Pictures
+http://103.159.4.38:5868/MOVIE-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Calcutta News" tvg-logo="" group-title="Just Live TV",Calcutta News
+http://103.159.4.38:5868/NEWS-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="" group-title="Just Live TV",Zing
+http://103.159.4.38:5868/MOVIE-9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="" group-title="Just Live TV",Sony Max 2
+http://103.159.4.38:5868/MOVIE-15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="" group-title="Just Live TV",9XM
+http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="" group-title="Just Live TV",Mastiii
+http://103.159.4.38:5868/MUSIC-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="" group-title="Just Live TV",Music India
+http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9X Jalwa" tvg-logo="" group-title="Just Live TV",9X Jalwa
+http://103.159.4.38:5868/MUSIC-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="" group-title="Just Live TV",&Prive HD
+http://103.159.4.38:5868/MOVIE-6/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="TSportsHD" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="VE Broadband Server",TSportsHD
+http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAzi TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="VE Broadband Server",GAzi TV HD
+http://137.59.155.77:8088/hls/01gazitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent HD" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJGQIYrLXIr_D26JVCZh0O_ZDvlSQ4dpZijMTgpg=s900-c-k-c0x00ffffff-no-rj" group-title="VE Broadband Server",Independent HD
+http://137.59.155.77:8088/hls/02IndependentTv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="VE Broadband Server",Star Sports 1 HD
+http://137.59.155.77:8088/hls/07starsports1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="https://mpng.subpng.com/20180920/hqu/kisspng-logo-star-sports-television-channel-5ba332dba39855.6830968815374220436701.jpg" group-title="VE Broadband Server",Star Sports 2
+http://137.59.155.77:8088/hls/08starsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD UCS" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="VE Broadband Server",Zee Bangla HD UCS
+http://tvflixucs.ddns.net:8088/hls/12zeebangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha UCS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="VE Broadband Server",Star Jalsha UCS
+http://tvflixucs.ddns.net:8088/hls/10starjalsha.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20200210144000" group-title="VE Broadband Server",Star Gold HD
+http://137.59.155.77:8088/hls/11stargold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/09/16/star.jpg" group-title="VE Broadband Server",Star Plus HD
+http://137.59.155.77:8088/hls/09starplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="https://www.airtv.net/images/logos/hindi/AAPKA_COLORS_LOGO_PRINT.png" group-title="VE Broadband Server",Colors HD
+http://137.59.155.77:8088/hls/13colors.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="VE Broadband Server",Sony Ten 1 HD
+http://137.59.155.77:8088/hls/03sonyten1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="VE Broadband Server",Sony Ten 2 HD
+http://137.59.155.77:8088/hls/04sonyten2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="VE Broadband Server",Sony Six HD
+http://137.59.155.77:8088/hls/05sonysix.m3u8
 
 
 
