@@ -593,13 +593,10 @@ http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Eng
 #http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
-#http://5giptv.me:8880/34516317/55678974/99546
-http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/2243
+https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Eng
 #http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
-#http://5giptv.me:8880/34516317/55678974/109031
-#http://5giptv.me:8880/34516317/55678974/320654
-http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/2242
+https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-154 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",Bein sports-3 EnG
 #http://iptv.tvmalaysia.cc:80/live/penang172/penang172/6609.m3u8
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/3906
@@ -673,9 +670,11 @@ http://b.wnbouhagsa.xyz//live/0679877700/index.m3u8
 
 
 #EXTINF:-148 tvg-http://f.winourata.xyz/live/001087800/index.m3u8="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
-http://77.83.117.60:8888//02_BTSPORTHD_1_720p/chunklist.m3u8
+#http://77.83.117.60:8888//02_BTSPORTHD_1_720p/chunklist.m3u8
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-2
-http://77.83.117.60:8888//02_BTSPORTHD_2_720p/chunklist.m3u8
+#http://77.83.117.60:8888//02_BTSPORTHD_2_720p/chunklist.m3u8
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-3
 http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 
